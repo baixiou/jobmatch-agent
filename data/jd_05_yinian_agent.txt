@@ -1,0 +1,33 @@
+职位名称：AI Agent开发实习生（Harness方向）
+公司名称：上海一念千身科技
+工作地点：上海徐汇区西岸智塔西塔楼11层
+薪资：200-250元/天
+出勤与周期：5天/周，6个月
+学历与人群：本科（985/211 院校或 QS 世界大学排名前 100 院校优先）
+来源链接：https://www.zhipin.com/job_detail/3fa8ecd807cbc6350nF92Nu5GFtY.html
+
+岗位职责：
+- 负责 Agent Harness系统的设计、开发与迭代，聚焦长程任务、生态调用与执行闭环（Loop Engineering）。
+- 搭建并优化 Agent Harness，提升智能体在真实任务中的稳定性、可靠性与可扩展性。
+- 结合业务场景打磨 Agent系统的闭环能力，持续迭代提升任务完成率与端到端体验。
+- 与产品、算法团队协作，推动 Agent 产品功能从原型到生产落地。
+说明：本岗位聚焦 Agent 应用与工程方向，不涉及大模型预训练、大模型推理优化等底层模型岗。
+
+任职要求：
+学历背景：985/211 院校或QS 世界大学排名前 100 院校优先
+方向与经验：
+- 具备 Agent 开发相关经验，熟练使用AI Native的高效工作流。
+- 有 Harness Engineering & Loop Engineering 相关工程经验者优先。
+- 熟练使用 Claude Code、Codex 等 CLI 工具，有实际 Agent 项目落地经验者优先。
+- 有开源贡献、技术博客或可展示的 Agent 作品优先。
+编程语言：
+- 熟练使用 TypeScript 或 Python ，具备良好的工程实践与代码素养。
+通用素质：
+- 具备良好的问题拆解能力、主动沟通意识与团队协作能力。
+
+我们提供：
+- 聚焦前沿的 Agent / Harness 技术方向，参与从 0 到 1 的智能体系统建设，做真正有挑战、有影响力的工作。
+- 扁平开放的团队氛围，持续学习、快速成长。
+
+关键词自评：
+Agent · Harness · Loop Engineering · TypeScript · Python · Claude Code · Codex
